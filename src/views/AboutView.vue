@@ -1,6 +1,7 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Quick demo application</h1>
+    <p>Vue3 Composition API + Nestjs made by Piotr Elmanowski</p>
   </div>
 </template>
 
