@@ -1,6 +1,6 @@
 # caloric-demand-calc
 
-This template should help get you started developing with Vue 3 in Vite.
+Demo application created by Piotr Elmanowski
 
 ## Recommended IDE Setup
 
